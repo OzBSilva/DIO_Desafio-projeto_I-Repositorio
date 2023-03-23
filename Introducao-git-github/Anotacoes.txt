@@ -1,0 +1,19 @@
+Comandos no git para integração com o github
+• git status » status do repositório;
+• git add . » adiciona alterações ao controle de versão local;
+• git commit -m "colocar algum comentário relevante aqui" » comando para fazer o "commit";
+• git push origin main » para sincronizar o repositório local com o github;
+• ssh-keygen -t ed25519 -C oziresbeserra@gmail.com » gerar chave SSH;
+• cd » para entrar em diretórios. Usar "/" para designar diretórios específicos; 
+• ls » listar conteúdo do diretório; 
+• cat "nomedoarquivo.ext" » ler conteúdo do arquivo;
+• pwd » mostra caminho completo (sua localização atual);
+• eval $(ssh-agent -s) » rodar o "agente" que fará a verificação automática do keygen;
+• ssh-add "nomedachaveprivada" » dar acesso a chave ao "agente" de verificação e autenticação;
+• git clone "caminhossh" » para clonar um repositório na máquina local para quem usa a chave SSH;
+• git 
+• git 
+• git 
+• git 
+• git 
+• git 
